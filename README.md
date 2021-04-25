@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi everyone!
+
+I come from china,i like node,i am very cool!!!!!!!!!!!!!!!
