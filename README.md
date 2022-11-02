@@ -1,4 +1,4 @@
 # hello-world
 hi everyone!
 
-I come from china,i like node,i am very cool!!!!!!!!!!!!!!!
+I come from china,i like code,i am very cool!!!!!!!!!!!!!!!
